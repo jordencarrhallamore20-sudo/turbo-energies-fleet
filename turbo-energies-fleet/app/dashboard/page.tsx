@@ -16,7 +16,7 @@ export default function DashboardPage() {
   return (
     <LayoutShell>
       <section className="page-section">
-        <PageHeader title="Turbo Energies overview" subtitle="Live workshop snapshot for fleet, stock, jobs, and service pressure." />
+        <PageHeader title="Turbo Energy overview" subtitle="Live workshop snapshot for fleet, stock, jobs, and service pressure." />
 
         <div className="stat-grid">
           <StatCard title="Total units" value={fleetUnits.length} note="Seeded fleet register" />
