@@ -3,7 +3,7 @@
 import { demoUsers } from "@/lib/demo-data";
 import { Role } from "@/lib/types";
 
-const STORAGE_KEY = "turbo-energies-session";
+const STORAGE_KEY = "turbo-energy-session";
 
 export interface SessionUser {
   email: string;
