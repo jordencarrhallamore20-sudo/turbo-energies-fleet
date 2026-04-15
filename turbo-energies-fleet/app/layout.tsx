@@ -2,7 +2,7 @@ import "@/styles/globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Turbo Energies Fleet Manager",
+  title: "Turbo Energy Fleet Manager",
   description: "Workshop fleet tracker for yellow machines and support equipment",
 };
 
