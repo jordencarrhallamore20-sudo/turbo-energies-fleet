@@ -24,7 +24,7 @@ export default function LoginPage() {
     <div className="login-page">
       <div className="login-card card">
         <div className="brand-mark large">TE</div>
-        <h1>Turbo Energies Fleet Manager</h1>
+        <h1>Turbo Energy Fleet Manager</h1>
         <p className="muted">Admin and workshop user sign-in</p>
 
         <form className="form-grid" onSubmit={handleSubmit}>
