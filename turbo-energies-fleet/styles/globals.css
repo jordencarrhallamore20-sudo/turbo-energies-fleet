@@ -41,7 +41,7 @@ html, body {
   background: var(--background-glow), var(--background);
 }
 .login-card {
-  width: min(100%, 480px);
+  width: min(200%, 960px);
   padding: 32px;
 }
 
