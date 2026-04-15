@@ -38,7 +38,7 @@ export default function LayoutShell({ children }: { children: ReactNode }) {
       <aside className="sidebar">
         <div>
           <div className="brand-mark">TE</div>
-          <h1>Turbo Energies</h1>
+          <h1>Turbo Energy</h1>
           <p className="muted">Fleet Manager</p>
         </div>
 
